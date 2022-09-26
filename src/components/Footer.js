@@ -11,13 +11,13 @@ export default class Footer extends Component {
         const socialItems = [
             {
                 "name":"linkedin",
-                "url":"https://www.linkedin.com/in/philip-hoang-7a50b2181/",
+                "url":"https://www.linkedin.com/in/alecbcampbeell/",
                 "className":"linkedin",
                 "imgsrc": linkedinIcon
             },
             {
                 "name":"github",
-                "url":"https://github.com/philiphoang",
+                "url":"https://github.com/uvacoder",
                 "className":"github",
                 "imgsrc":githubIcon
             },
@@ -30,7 +30,7 @@ export default class Footer extends Component {
             ,
             {
                 "name":"mail",
-                "url":"mailto: philip.t.hoang",
+                "url":"mailto: freeunioncoder",
                 "className":"mail",
                 "imgsrc": mailIcon
             }
